@@ -18,3 +18,4 @@ console.log(typeof(Users[2].age)); // 선언안됨
 console.log(Users[0].name);
 console.log(Users[1].name);
 console.log(Users[2].name);
+console.log(Users[2](10,10));

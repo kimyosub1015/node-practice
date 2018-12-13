@@ -3,5 +3,6 @@ function add(a,b){
 }
 var result = add(10,10);
 console.log('10 + 10 = '+result);
+//console.log('10 + 10 = '+add(10,10));
 
 console.log('add의 타입 : '+typeof(add));
